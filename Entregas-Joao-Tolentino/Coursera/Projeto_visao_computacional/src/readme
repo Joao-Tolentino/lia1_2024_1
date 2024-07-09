@@ -1,3 +1,5 @@
 ## O arquivo Visao_computacional_library_para_arduino_IDE é uma biblioteca, a qual deve ser usada na IDE arduino para ser usada em uma placa controladora, arduino, esp, etc.
 ## O projeto comtempla apenas três objetos classificados, e uma classificação de background, pode ser alterado a modo de reconhecer outras classes.
 ## O projeto utiliza um modelo de Neural Network, ou rede neural, para fazer as previsões de acordo com imagens fornecidas.
+## O projeto foi inicialmente concebido para esp32-cam, portanto seu código é feito para ser usado no mesmo.
+## Para usar o projeto é preciso verificar certas bibliotecas e suas versões, visto que o código é depreciado com o tempo.
